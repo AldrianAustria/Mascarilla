@@ -1,5 +1,5 @@
 # Mascarilla
-A Presence Triggered Face Mask Detection using YOLOv5 Object Detection Algorithm and Arduino UNO R3 Ultrasonic Sensor.
+A Presence Triggered Face Mask Detection using YOLOv5 Object Detection Model and Arduino UNO R3 Ultrasonic Sensor.
 
 The program is intergrated with an Arduino UNO R3 micro-controller, HC-SR04 Ultrasonic Sensor to determine the distance to simulate the presence detection, and three LED indicators to visualized the output of the program  corresponding to the type of face mask that a user is wearing.
 
